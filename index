@@ -4,77 +4,14 @@
 <meta charset="UTF-8">
 <title>DTE Review Meeting – Agenda</title>
 <style>
-    body {
-        font-family: "Segoe UI", Arial, sans-serif;
-        background: #f4f6f9;
-        margin: 0;
-        padding: 0;
-        color: #333;
-    }
-
-    .header {
-        background: #003366;
-        color: white;
-        padding: 25px;
-        text-align: center;
-        font-size: 22px;
-        letter-spacing: 1px;
-        font-weight: 600;
-        line-height: 1.5;
-    }
-
-    .container {
-        max-width: 800px;
-        margin: 40px auto;
-        background: white;
-        padding: 30px 40px;
-        border-radius: 12px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    }
-
-    h2 {
-        text-align: center;
-        color: #003366;
-        margin-bottom: 10px;
-        font-size: 26px;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-    }
-
-    .subheader {
-        text-align: center;
-        font-size: 18px;
-        font-weight: 600;
-        margin-bottom: 25px;
-        color: #444;
-    }
-
-    .section {
-        margin: 20px 0;
-        font-size: 18px;
-        line-height: 1.6;
-    }
-
-    table {
-        width: 100%;
-        margin: 20px 0;
-        border-collapse: separate;
-        border-spacing: 0 10px;
-        font-size: 18px;
-    }
-
-    td {
-        padding: 10px 15px;
-        background: #eef3f8;
-        border-radius: 8px;
-    }
-
-    ol {
-        font-size: 18px;
-        line-height: 1.8;
-        margin-top: 15px;
-    }
-
+    body { font-family: "Segoe UI", Arial, sans-serif; background: #f4f6f9; margin: 0; padding: 0; color: #333; }
+    .header { background: #003366; color: white; padding: 25px; text-align: center; font-size: 22px; letter-spacing: 1px; font-weight: 600; line-height: 1.5; }
+    .container { max-width: 800px; margin: 40px auto; background: white; padding: 30px 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+    h2 { text-align: center; color: #003366; margin-bottom: 10px; font-size: 26px; text-transform: uppercase; letter-spacing: 1px; }
+    .subheader { text-align: center; font-size: 18px; font-weight: 600; margin-bottom: 25px; color: #444; }
+    table { width: 100%; margin: 20px 0; border-collapse: separate; border-spacing: 0 10px; font-size: 18px; }
+    td { padding: 10px 15px; background: #eef3f8; border-radius: 8px; }
+    ol { font-size: 18px; line-height: 1.8; margin-top: 15px; }
 </style>
 </head>
 <body>
@@ -86,7 +23,6 @@
 
 <div class="container">
     <h2>REVIEW MEETING</h2>
-
     <div class="subheader">AGENDA</div>
 
     <table>
@@ -100,16 +36,15 @@
         </tr>
     </table>
 
-    <div class="section">
-        <ol>
-            <li>Syllabus Coverage – I st year</li>
-            <li>National Scholarships</li>
-            <li>Budget Utilisation 2025–26</li>
-            <li>Budget Required 2026–27</li>
-            <li>F R S</li>
-            <li>Any other issue with the permission of the Chair</li>
-        </ol>
-    </div>
+    <ol>
+        <li>Syllabus Coverage – I st year</li>
+        <li>National Scholarships</li>
+        <li>Budget Utilisation 2025–26</li>
+        <li>Budget Required 2026–27</li>
+        <li>F R S</li>
+        <li>Any other issue with the permission of the Chair</li>
+    </ol>
+
 </div>
 
 </body>
